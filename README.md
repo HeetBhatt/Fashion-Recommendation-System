@@ -15,7 +15,7 @@ I have used transfer learning concept in this project so I have used pre-trained
 ### Dataset:<br/>
 Imagenet dataset<br/>
 ### Language:<br/>
-This project is tatally built in Python.<br/>
+This project is totally built in Python.<br/>
 ### Library:<br/>
 Numpy<br/>
 Tensorflow<br/>
