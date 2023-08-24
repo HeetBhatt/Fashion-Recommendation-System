@@ -7,8 +7,8 @@ In conclusion, the "Fashion Recommendation System" project demonstrates the succ
 ![first](https://github.com/HeetBhatt/Fashion-Recommendation-System/assets/107753246/54a57cb4-00b5-4e9d-8949-b4000790d88f)
 ![second](https://github.com/HeetBhatt/Fashion-Recommendation-System/assets/107753246/31edf6c9-e89d-4bc5-8e22-dbcf0495f63e)
 
-Technology used:
-User Interface: 
+Technology used:  
+User Interface:   
 I have used streamlit framework for make user interface. It is very good option to develop a UI faster for data science project. 
 Model:
 I have used transfer learning concept in this project so I have used pre-trained model called RESNET(Residual Neural Network) which have used data from Imagenet dataset. And for recommendation purpose I have used KNearest Neighbors which will search the nearest 5 recommendations to the given input image and show the output image.
